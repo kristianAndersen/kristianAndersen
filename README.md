@@ -1,10 +1,10 @@
 ### Hi there 👋
+![alt text](https://raw.githubusercontent.com/kristianAndersen/kristianAndersen/master/profil.png)
 
 <!--
 **kristianAndersen/kristianAndersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-![alt text](https://raw.githubusercontent.com/kristianAndersen/kristianAndersen/master/profil.png)
 
 Here are some ideas to get you started:
 
