@@ -12,8 +12,11 @@ VUE3 and more vanilla JavaScript
 
 **🤔 I’m looking for help with**
 
-Finding a junior dev'ish position, a place where i can learn and contribute
-Im not asking for a huge pay, but enough to pay the bills while i learn 
+Finding a junior dev'ish position, a place where i can learn and contribute  
+Im not asking for a huge pay, but enough to pay the bills.  
+And i have a background in Graphic Design so i can help out in that arrea.
+
+
 
 <!--
 **kristianAndersen/kristianAndersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
